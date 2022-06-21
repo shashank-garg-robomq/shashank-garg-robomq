@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# This is the readme of Shashank Garg. Really great guy.
+
 <!--
 **shashankg-robomq/shashankg-robomq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
